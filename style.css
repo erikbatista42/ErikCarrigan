@@ -198,7 +198,7 @@ body {
 	left: 20px;
   transition-duration: 0.3s;
 }
-.AlfredWegener:hover, .AlfredWegener:focus, .AlfredWegener:active {
+.NicolausCopernicus:hover, .NicolausCopernicus:focus, .NicolausCopernicus:active {
 	-webkit-transform: scale(1.5);
 }
 .GeorgeWashington {
@@ -221,5 +221,38 @@ body {
   transition-duration: 0.3s;
 }
 .AlexanderTheGreat:hover, .AlexanderTheGreat:focus, .AlexanderTheGreat:active {
+	-webkit-transform: scale(1.5);
+}
+.AbrahamLincoln {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1900px;
+	left: 20px;
+  transition-duration: 0.3s;
+}
+.AbrahamLincoln:hover, .AbrahamLincoln:focus, .AbrahamLincoln:active {
+	-webkit-transform: scale(1.5);
+}
+.MaoZedong {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1900px;
+	left: 370px;
+  transition-duration: 0.3s;
+}
+.MaoZedong:hover, .MaoZedong:focus, .MaoZedong:active {
+	-webkit-transform: scale(1.5);
+}
+.MarkZuckerberg {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1900px;
+	left: 720px;
+  transition-duration: 0.3s;
+}
+.MarkZuckerberg:hover, .MarkZuckerberg:focus, .MarkZuckerberg:active {
 	-webkit-transform: scale(1.5);
 }
