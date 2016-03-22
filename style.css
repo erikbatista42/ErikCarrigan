@@ -1,8 +1,14 @@
+.page-wrap {
+	width: 960px;
+	margin: 0 auto;
+	position: relative;
+}
 body {
 	
 }
+/*INTRO*/
 .intro {
-	width: 99.3%;
+	width: 50%;
 
 	position: absolute;
 	text-align: center;
@@ -32,15 +38,57 @@ body {
 	width: 640px;
 	height: 96px;
 	position: absolute;
-	left: 650px;
+	left: 150px;
 	top: 400px;
 	color: rgb(127, 127, 127);
 }
 .hori1 {
-	width: 950px;
+	width: 978px;
 	height: 1px;
 	background-color: rgb(127, 127, 127);;
 	position: absolute;
 	top: 600px;
 	left: 500px;
 }
+/*INTRO ENDS*/
+
+/*PICTURES*/
+.pictures {
+	position: absolute;
+	text-align: center; 
+}
+.SteveJobs {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 650px;
+	left: 20px;
+  transition-duration: 0.3s;
+}
+.SteveJobs:hover, .SteveJobs:focus, .SteveJobs:active {
+	-webkit-transform: scale(1.5);
+
+}
+.AlanTuring {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 650px;
+	left: 370px;
+  transition-duration: 0.3s;
+}
+.AlanTuring:hover, .AlanTuring:focus, .AlanTuring:active {
+-webkit-transform: scale(1.5);
+ }
+ .BenjaminFranklin {
+ 	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 650px;
+	left: 720px;
+  transition-duration: 0.3s;
+ }
+ 
+ .BenjaminFranklin:hover, .BenjaminFranklin:focus, .BenjaminFranklin:active {
+ 	-webkit-transform: scale(1.5);
+ }
