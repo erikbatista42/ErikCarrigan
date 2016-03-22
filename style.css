@@ -157,3 +157,36 @@ body {
 .MahatmaGhandhi:hover, .MahatmaGhandhi:focus, .MahatmaGhandhi:active {
 	-webkit-transform: scale(1.5);
 }
+.JohnDRockefeller {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1400px;
+	left: 20px;
+  transition-duration: 0.3s;
+}
+.JohnDRockefeller:hover, .JohnDRockefeller:focus, .JohnDRockefeller:active {
+	-webkit-transform: scale(1.5);
+}
+.MichaelBloomberg {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1400px;
+	left: 370px;
+  transition-duration: 0.3s;
+}
+.MichaelBloomberg:hover, .MichaelBloomberg:focus, .MichaelBloomberg:active {
+	-webkit-transform: scale(1.5);
+}
+.AlfredWegener {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1400px;
+	left: 720px;
+  transition-duration: 0.3s;
+}
+.AlfredWegener:hover, .AlfredWegener:focus, .AlfredWegener:active {
+	-webkit-transform: scale(1.5);
+}
