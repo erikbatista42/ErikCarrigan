@@ -256,3 +256,121 @@ body {
 .MarkZuckerberg:hover, .MarkZuckerberg:focus, .MarkZuckerberg:active {
 	-webkit-transform: scale(1.5);
 }
+.MartinLutherKingJr {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 2150px;
+	left: 20px;
+  transition-duration: 0.3s;
+}
+.MartinLutherKingJr:hover, .MartinLutherKingJr:focus, .MartinLutherKingJr:active {
+	-webkit-transform: scale(1.5);
+}
+.SamWalton {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 2150px;
+	left: 370px;
+  transition-duration: 0.3s;
+}
+.SamWalton:hover, .SamWalton:focus, .SamWalton:active {
+	-webkit-transform: scale(1.5);
+}
+.Picasso {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 2150px;
+	left: 720px;
+  transition-duration: 0.3s;
+}
+.Picasso:hover, .Picasso:focus, .Picasso:active {
+	-webkit-transform: scale(1.5);
+}
+/*PICTURE ENDS*/
+.hori2 {
+	width: 978px;
+	height: 1px;
+	background-color: rgb(127, 127, 127);;
+	position: absolute;
+	top: 2400px;
+	left: 500px;
+}
+.p2 {
+	font-size: 42px;
+	font-family: Helvetica, sans-serif;
+	font-weight: 300;
+	text-align: center;
+	color: rgb(49, 98, 159);
+	position: absolute;
+	top: 2400px;
+	text-align: center;
+	left: 870px;
+}
+.p3 {
+	font-family: Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	text-align: center;
+	margin: 20px 0 20px 0;
+	width: 640px;
+	height: 96px;
+	position: absolute;
+	left: 670px;
+	top: 2500px;
+	color: rgb(127, 127, 127);
+}
+.p4 {
+	font-family: Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	text-align: center;
+	margin: 20px 0 20px 0;
+	width: 640px;
+	height: 96px;
+	position: absolute;
+	left: 670px;
+	top: 2625px;
+	color: rgb(127, 127, 127);
+}
+.p4:hover {
+	color: rgb(49, 98, 159);
+}
+.hori3 {
+	width: 978px;
+	height: 1px;
+	background-color: rgb(127, 127, 127);;
+	position: absolute;
+	top: 2725px;
+	left: 500px;
+}
+footer {
+	position: absolute;
+	top: 2726px;
+	left: 500px;
+	width: 978px;
+	height: 100px;
+	background-color: black;
+}
+nav {
+	position: absolute;
+	 
+	right: 100px;
+}
+ul {
+	list-style-type: none;
+	color: white;
+}
+li {
+	display: inline;
+	color: white;
+
+	
+}
+a {
+	text-decoration: none;
+	color: white;
+	color: rgb(127, 127, 127);
+}
