@@ -3,7 +3,7 @@
 	margin: 0 auto;
 }
 body {
-	
+	background-color: #f2f2f2;
 }
 /*INTRO*/
 .intro {
@@ -188,5 +188,38 @@ body {
   transition-duration: 0.3s;
 }
 .AlfredWegener:hover, .AlfredWegener:focus, .AlfredWegener:active {
+	-webkit-transform: scale(1.5);
+}
+.NicolausCopernicus {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1650px;
+	left: 20px;
+  transition-duration: 0.3s;
+}
+.AlfredWegener:hover, .AlfredWegener:focus, .AlfredWegener:active {
+	-webkit-transform: scale(1.5);
+}
+.GeorgeWashington {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1650px;
+	left: 370px;
+  transition-duration: 0.3s;
+}
+.GeorgeWashington:hover, .GeorgeWashington:focus, .GeorgeWashington:active {
+	-webkit-transform: scale(1.5);
+}
+.AlexanderTheGreat {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1650px;
+	left: 720px;
+  transition-duration: 0.3s;
+}
+.AlexanderTheGreat:hover, .AlexanderTheGreat:focus, .AlexanderTheGreat:active {
 	-webkit-transform: scale(1.5);
 }
