@@ -1,7 +1,6 @@
 .page-wrap {
 	width: 960px;
 	margin: 0 auto;
-	position: relative;
 }
 body {
 	
@@ -92,3 +91,69 @@ body {
  .BenjaminFranklin:hover, .BenjaminFranklin:focus, .BenjaminFranklin:active {
  	-webkit-transform: scale(1.5);
  }
+.AdaLovelace {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 900px;
+	left: 20px;
+  transition-duration: 0.3s;
+}
+.AdaLovelace:hover, .AdaLovelace:focus, .AdaLovelace:active {
+-webkit-transform: scale(1.5);
+ }
+ .AlbertEinstein {
+ 	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 900px;
+	left: 370px;
+  transition-duration: 0.3s;
+ }
+ .AlbertEinstein:hover, .AlbertEinstein:focus, .AlbertEinstein:active {
+-webkit-transform: scale(1.5);
+}
+.BillGates {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 900px;
+	left: 720px;
+  transition-duration: 0.3s;
+}
+.BillGates:hover, .BillGates:focus, .BillGates:active {
+	-webkit-transform: scale(1.5);
+}
+.WarrenBuffet {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1150px;
+	left: 20px;
+  transition-duration: 0.3s;
+}
+.WarrenBuffet:hover, .WarrenBuffet:focus, .WarrenBuffet:active {
+	-webkit-transform: scale(1.5);
+}
+.ElonMusk {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1150px;
+	left: 370px;
+  transition-duration: 0.3s;
+}
+.ElonMusk:hover, .ElonMusk:focus, .ElonMusk:active {
+	-webkit-transform: scale(1.5);
+}
+.MahatmaGhandhi {
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	top: 1150px;
+	left: 720px;
+  transition-duration: 0.3s;
+}
+.MahatmaGhandhi:hover, .MahatmaGhandhi:focus, .MahatmaGhandhi:active {
+	-webkit-transform: scale(1.5);
+}
