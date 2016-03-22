@@ -352,25 +352,34 @@ footer {
 	left: 500px;
 	width: 978px;
 	height: 100px;
-	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 50px;
 }
 nav {
 	position: absolute;
-	 
 	right: 100px;
 }
 ul {
 	list-style-type: none;
 	color: white;
+	position: absolute;
+	right: 0px;
 }
 li {
 	display: inline;
 	color: white;
-
-	
+	margin-left: 5px;
+	margin-right: 5px;
 }
 a {
 	text-decoration: none;
-	color: white;
+	color: rgb(127, 127, 127);
+}
+a:hover {
+	 color: rgba(49,159,75,1.0);
+}
+.p5 {
+	position: absolute;
+	left: 0px;
 	color: rgb(127, 127, 127);
 }
